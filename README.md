@@ -3,12 +3,12 @@ JChronon
 
 What is JChronon library ?      
 
-JChronon is a small java library implemented to handle the operations or calculations that a Jdeveloper wants to do with the Date,Time and Duration.Till now Jdevelopers has to write their own functions or need to search methods related to date and time on Google.But now it is easier to do.
+JChronon is a small java library implemented to handle the operations or calculations that a Java developer wants to do with the Date,Time and Duration.Till now developers has to write their own functions or need to search methods related to date and time on Google.But now it is easier to do.
 
-JChronon library will perform the calculations related to date and time.All the classes implemented in Singleton Design Pattern - DateHandler , TimeHandler and DurationHandler contains the methods to perform calculations.
+JChronon library will perform the calculations related to date and time.All the classes DateHandler , TimeHandler and DurationHandler contains the methods to perform calculations.
 
 Why JChronon ?     
-Many times Jdevelopers needed to do calculations with date and time and they have to write traditional code. Here is the example what Jdevelopers do when they have to print system date or time.
+Many times developers needed to do calculations with date and time and they have to write traditional code. Here is the example what Jdevelopers do when they have to print system date or time.
         
 If you have ever googled the below questions then you got the right thing.
 1) How to add 2 times in java?
